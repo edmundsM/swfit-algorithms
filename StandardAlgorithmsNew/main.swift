@@ -7,6 +7,11 @@
 
 import Foundation
 
-let a = 10
-print("Hello, World!")
+
+
+func helloWorld() {
+    print("Hello world!")
+}
+
+helloWorld()
 
