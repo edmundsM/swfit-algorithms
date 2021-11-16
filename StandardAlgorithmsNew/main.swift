@@ -7,5 +7,6 @@
 
 import Foundation
 
+let a = 10
 print("Hello, World!")
 
